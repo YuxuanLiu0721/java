@@ -3,9 +3,7 @@ public class JudgeScore {
 
 	public static void main(String[] args) {
 		
-				/*
-				Yuxuan Liu   ID:260765731
-				*/	
+			
 			//Declaring the variables for storing the judges scores.
 				int judge1, judge2, judge3, judge4;
 				judge1 = Integer.valueOf(args[0]);
