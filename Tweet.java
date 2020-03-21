@@ -1,5 +1,4 @@
-//Yuxuan Liu
-//260765731
+
 import java.util.HashSet;
 import java.io.*;
 public class Tweet {
