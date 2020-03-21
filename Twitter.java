@@ -1,5 +1,4 @@
-//Yuxuan Liu
-//260765731
+
 import java.util.ArrayList;
 import java.io.*;
 import java.util.HashMap;
