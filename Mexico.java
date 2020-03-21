@@ -1,7 +1,7 @@
 
 public class Mexico {
 
-  //Yuxuan liu ID:260765731
+ 
 	
 	
 	public static void main(String[] args) {
