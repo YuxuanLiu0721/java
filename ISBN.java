@@ -2,7 +2,7 @@
 public class ISBN{
   public static void main(String[ ] args){
     
-      /* Yuxuan Liu  ID:260765731*/
+     
       //Declaring the variable to represent the ISBN number 	
    int n = Integer.parseInt(args[0]);
 	
