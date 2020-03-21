@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Random;
 public class TicTacToe {
 	
-		//yuxuan liu 260765731
+		
 		public static void main(String args[]) {
 			play();
 		}
