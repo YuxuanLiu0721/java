@@ -2,9 +2,7 @@
 public class DateOfTheWeek {
 
 	public static void main(String[] args) {
-		/*
-		Yuxuan Liu     260765731
-		*/
+		
         //Declaring the variables for year(y), month(m), day(d)
 	    int y,m,d;
 	    //initialisation of the variables y,m and d with the input arguments
